@@ -1,1 +1,0 @@
-sqlite3 db.sqlite3 "SELECT * FROM games_game ORDER BY name;"

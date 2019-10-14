@@ -1,1 +1,0 @@
-curl -iX PUT -H "Content-Type: application/json" -d '{"name":"Fortnite Forever"}' "localhost:8000/games/4/"

@@ -1,2 +1,0 @@
-http POST ":5000/service/notification-categories/" name='Information'
-http POST ":5000/service/notification-categories/" name='Warning'

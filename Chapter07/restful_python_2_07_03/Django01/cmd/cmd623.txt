@@ -1,2 +1,0 @@
-http POST ":8000/players/" name='Gaston Hillar' gender='M'
-http POST ":8000/players/" name='Enzo Scocco' gender='M'

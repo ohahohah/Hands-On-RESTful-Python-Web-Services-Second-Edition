@@ -1,1 +1,0 @@
-curl -iX POST -H "Content-Type: application/json" -d '{"description":"T (Teen)"}' "localhost:8000/esrb-ratings/"
