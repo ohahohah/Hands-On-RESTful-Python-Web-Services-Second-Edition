@@ -1,26 +1,10 @@
-# Hands-On RESTful Python Web Services - Second Edition
+# 모두의 연구소 풀잎스쿨 9기 - Python Web 실습 
+- [코스 소개](http://home.modulabs.co.kr/product/%EB%8B%98-python%EC%9C%BC%EB%A1%9C-web-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%84-python-web-2-3/#93;%A4%EC%96%B4%EB%B4%84-python-web-2-3/)
 
-<a href="https://www.packtpub.com/application-development/hands-restful-python-web-services-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532227 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11673-cover-new.png" alt="Hands-On RESTful Python Web Services - Second Edition" height="256px" align="right"></a>
-
-This is the code repository for [Hands-On RESTful Python Web Services - Second Edition](https://www.packtpub.com/application-development/hands-restful-python-web-services-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532227 ), published by Packt.
+- [Hands-On RESTful Python Web Services - Second Edition](https://www.packtpub.com/application-development/hands-restful-python-web-services-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532227 ), published by Packt 을 사용해 실습합니다. 해당 코드의 저작권은 원본 저작자에게 있습니다. 
+- 매주 pair-programming 실습 전 이 remote branch를 pull 해서 실습을 시작합니다.
 
 **Develop RESTful web services or APIs with modern Python 3.7**
-
-## What is this book about?
-Python is the language of choice for millions of developers worldwide, serving the purpose of building great web services in the RESTful architecture. This second edition will show you the best tools you can use to build your own web services.
-
-This book covers the following exciting features:
-* Select the most appropriate framework based on the requirements 
-* Develop complex RESTful APIs from scratch with Python 
-* Use requests handlers, URL patterns, serialization, and validations 
-* Add authentication, authorization, and interaction with ORMs and databases 
-* Debug, test, profile, and improve RESTful APIs with the four frameworks 
-* Design the RESTful APIs with the frameworks and create automated tests 
-
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789532221) today!
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
@@ -48,25 +32,4 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Hands-On Data Structures and Algorithms with Python - Second Edition [[Packt]](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-python-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788995573 ) [[Amazon]](https://www.amazon.com/dp/1788995570)
 
 * Learn Python Programming - Second Edition [[Packt]](https://www.packtpub.com/application-development/learn-python-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788996662 ) [[Amazon]](https://www.amazon.com/dp/1788996666)
-
-## Get to Know the Author
-**Gaston C Hillar**
-is Italian and has been working with computers since he was 8 years old. Gaston has a Bachelor's degree in computer science (graduated with honors) and an MBA.
-
-Currently, Gaston is an independent IT consultant and a freelance author who is always looking for new adventures anywhere in the world.
-
-He was a senior contributing editor at Dr. Dobb's, and has written more than a hundred articles on software development topics. He has received the prestigious Intel® Black Belt Software Developer award eight times. He has written many articles about Java for Oracle Java Magazine.
-
-Gaston was also a former Microsoft MVP in technical computing. He lives with his wife, Vanesa, and his two sons, Kevin and Brandon.
-
-
-## Other books by the authors
-[Hands-On MQTT Programming with Python](https://www.packtpub.com/application-development/hands-mqtt-programming-python?utm_source=github&utm_medium=repository&utm_campaign=9781789138542 )
-
-[Guide to NoSQL with Azure Cosmos DB](https://www.packtpub.com/big-data-and-business-intelligence/guide-nosql-azure-cosmos-db?utm_source=github&utm_medium=repository&utm_campaign=9781789612899 )
-
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-
 
